@@ -265,12 +265,10 @@ void renderMap1() {
         fill(34, 179, 82);
         rect(j*cellWidth, i*cellHeight, cellWidth, cellHeight);
         break;
-      default:
-        println("something is wrong with the map.");
-      }//end switch
-    }//end for cols
-  }//end for rows
-}//end renderMap
+      }
+    }
+  }
+}
 
 void renderMap2() {
   for (int i = 0; i < rows2; i++) {
@@ -284,8 +282,6 @@ void renderMap2() {
         fill(34, 179, 82);
         rect(j*cellWidth2, i*cellHeight2, cellWidth2, cellHeight2);
         break;
-      default:
-        println("something is wrong with the map.");
       }
     }
   }
