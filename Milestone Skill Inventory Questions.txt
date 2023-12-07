@@ -1,0 +1,12 @@
+﻿Questions from Skill Inventory
+
+
+19. A for loop, loops a code that will only work within the conditional statement, a while loop will control a certain block of code while something is true, or until a condition is met
+21. Parameters are the names of the variables that are stored within the brackets of a function, and then the values that are called within the function and used in the function are the arguments
+25. A class is known as a blueprint, where it allows objects to be stored within the class, objects are what create the actual state from the class.
+26. A constructor function is held within a class, it is used to initialize the construction of the class, and it defines the characteristics of the objects within the class.
+27. Having a tab for each class in processing isn’t necessary, but it is important because it allows classes of the main code to be stored with better organization and easier to navigate.
+31. An array consists of a collection of elements that are typically variables or values, while an arrayList in processing stores objects, where items are able to be added, removed, or changed in size.
+32. When coding an arraylist, it makes sense for the latest items to be processed first, so having the more significant code should be called first
+37. PVectors should be used instead of float variables when making variables that control position, velocity, and using x and y components. 
+38. normalize() uses a vector and will take the components and will normalize it to make it a normalized unit vector. It makes calculations easier and guarantees that the vector will remain in the same direction at the same length.
